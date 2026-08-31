@@ -6,7 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "schwanzsmp.aternos.me",
+    "ip": "mudskipper.aternos.host:48295
+",
     "port": 48295,
     "version": "",
     "try-creative": false
